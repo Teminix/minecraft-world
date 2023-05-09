@@ -371,6 +371,7 @@
       "rotten_flesh": "2023-05-05 01:27:51 -0400",
       "glow_berries": "2023-04-10 04:48:27 -0400",
       "salmon": "2023-05-08 01:47:37 -0400",
+      "melon_slice": "2023-05-09 01:51:57 -0400",
       "beetroot": "2023-04-21 02:51:10 -0400",
       "cooked_salmon": "2023-04-09 21:42:39 -0400",
       "carrot": "2023-04-21 00:35:04 -0400"
@@ -4054,6 +4055,42 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-05-08 00:23:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2023-05-08 23:19:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2023-05-08 23:32:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2023-05-08 23:32:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2023-05-08 23:32:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2023-05-09 00:06:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2023-05-09 00:04:28 -0400"
     },
     "done": true
   },
