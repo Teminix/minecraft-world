@@ -7,29 +7,43 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-05-09 23:33:22 -0400",
+      "minecraft:mushroom_fields": "2023-05-10 00:08:00 -0400",
       "minecraft:taiga": "2023-04-09 20:43:49 -0400",
       "minecraft:deep_ocean": "2023-05-06 02:13:51 -0400",
       "minecraft:frozen_river": "2023-04-26 01:18:38 -0400",
       "minecraft:cherry_grove": "2023-05-06 02:09:05 -0400",
+      "minecraft:sunflower_plains": "2023-05-09 23:56:14 -0400",
       "minecraft:birch_forest": "2023-05-06 02:07:53 -0400",
       "minecraft:windswept_hills": "2023-04-26 01:20:59 -0400",
+      "minecraft:wooded_badlands": "2023-05-10 00:11:15 -0400",
       "minecraft:beach": "2023-04-10 03:24:09 -0400",
       "minecraft:dark_forest": "2023-05-07 23:14:22 -0400",
+      "minecraft:mangrove_swamp": "2023-05-09 23:44:03 -0400",
       "minecraft:river": "2023-04-09 22:26:41 -0400",
+      "minecraft:lukewarm_ocean": "2023-05-10 00:09:20 -0400",
       "minecraft:stony_shore": "2023-04-10 03:24:06 -0400",
       "minecraft:snowy_plains": "2023-04-26 01:18:14 -0400",
+      "minecraft:snowy_taiga": "2023-05-09 23:32:07 -0400",
       "minecraft:grove": "2023-04-26 00:11:00 -0400",
       "minecraft:swamp": "2023-05-06 02:16:18 -0400",
       "minecraft:cold_ocean": "2023-04-10 03:24:11 -0400",
       "minecraft:forest": "2023-04-09 20:53:22 -0400",
       "minecraft:deep_cold_ocean": "2023-04-21 03:01:35 -0400",
       "minecraft:frozen_ocean": "2023-04-26 01:17:37 -0400",
+      "minecraft:desert": "2023-05-10 00:10:32 -0400",
       "minecraft:deep_frozen_ocean": "2023-04-26 01:16:29 -0400",
       "minecraft:ocean": "2023-05-06 02:13:46 -0400",
+      "minecraft:old_growth_spruce_taiga": "2023-05-09 23:33:28 -0400",
       "minecraft:snowy_beach": "2023-04-26 01:18:15 -0400",
+      "minecraft:windswept_savanna": "2023-05-09 23:43:43 -0400",
+      "minecraft:warm_ocean": "2023-05-10 00:10:31 -0400",
+      "minecraft:deep_lukewarm_ocean": "2023-05-10 00:07:15 -0400",
+      "minecraft:flower_forest": "2023-05-09 23:56:26 -0400",
       "minecraft:old_growth_birch_forest": "2023-04-11 05:29:59 -0400",
       "minecraft:deep_dark": "2023-04-10 02:47:15 -0400",
       "minecraft:meadow": "2023-04-09 20:53:24 -0400",
+      "minecraft:windswept_gravelly_hills": "2023-05-09 23:56:42 -0400",
       "minecraft:plains": "2023-04-09 23:48:01 -0400"
     },
     "done": false
@@ -324,6 +338,7 @@
       "rotten_flesh": "2023-04-09 22:34:43 -0400",
       "golden_carrot": "2023-04-26 01:58:16 -0400",
       "cooked_rabbit": "2023-04-09 20:54:35 -0400",
+      "mushroom_stew": "2023-05-10 00:43:28 -0400",
       "cooked_salmon": "2023-04-09 21:25:07 -0400",
       "carrot": "2023-04-26 02:12:46 -0400"
     },
@@ -1480,6 +1495,7 @@
       "minecraft:zombified_piglin": "2023-05-07 22:30:54 -0400",
       "minecraft:witch": "2023-04-11 05:37:42 -0400",
       "minecraft:wither_skeleton": "2023-04-11 02:14:18 -0400",
+      "minecraft:husk": "2023-05-10 00:18:15 -0400",
       "minecraft:ender_dragon": "2023-05-06 00:31:01 -0400",
       "minecraft:shulker": "2023-05-06 01:19:36 -0400",
       "minecraft:piglin": "2023-04-11 02:43:41 -0400",
@@ -3845,6 +3861,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2023-05-09 03:17:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-05-10 00:12:46 -0400"
     },
     "done": true
   },

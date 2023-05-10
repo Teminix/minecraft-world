@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2023-04-10 04:26:31 -0400",
+      "minecraft:mushroom_fields": "2023-05-10 00:28:49 -0400",
       "minecraft:taiga": "2023-04-09 20:47:48 -0400",
       "minecraft:frozen_river": "2023-04-10 04:42:13 -0400",
       "minecraft:cherry_grove": "2023-04-21 04:44:23 -0400",
@@ -15,6 +16,7 @@
       "minecraft:beach": "2023-04-10 03:17:50 -0400",
       "minecraft:dark_forest": "2023-05-08 23:20:16 -0400",
       "minecraft:river": "2023-04-09 21:32:59 -0400",
+      "minecraft:lukewarm_ocean": "2023-05-10 00:28:06 -0400",
       "minecraft:stony_shore": "2023-04-10 03:07:32 -0400",
       "minecraft:snowy_plains": "2023-04-26 02:51:51 -0400",
       "minecraft:dripstone_caves": "2023-04-09 21:34:46 -0400",
@@ -25,8 +27,11 @@
       "minecraft:forest": "2023-04-09 20:51:45 -0400",
       "minecraft:lush_caves": "2023-04-10 05:02:23 -0400",
       "minecraft:deep_cold_ocean": "2023-04-10 03:15:42 -0400",
+      "minecraft:desert": "2023-05-10 00:16:45 -0400",
       "minecraft:old_growth_spruce_taiga": "2023-04-10 04:24:44 -0400",
       "minecraft:snowy_beach": "2023-04-26 02:54:35 -0400",
+      "minecraft:warm_ocean": "2023-05-10 00:17:58 -0400",
+      "minecraft:deep_lukewarm_ocean": "2023-05-10 00:28:11 -0400",
       "minecraft:old_growth_birch_forest": "2023-04-11 03:18:19 -0400",
       "minecraft:meadow": "2023-04-09 20:51:47 -0400",
       "minecraft:plains": "2023-04-10 00:33:14 -0400"
@@ -853,6 +858,7 @@
       "pumpkin_pie": "2023-04-18 01:05:40 -0400",
       "bread": "2023-04-10 00:04:02 -0400",
       "melon_slice": "2023-05-09 05:10:07 -0400",
+      "mushroom_stew": "2023-05-10 00:37:18 -0400",
       "cooked_salmon": "2023-04-09 20:58:27 -0400",
       "carrot": "2023-04-18 00:47:53 -0400"
     },
@@ -4204,39 +4210,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2023-05-09 04:53:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_carpet": {
-    "criteria": {
-      "has_magenta_wool": "2023-05-09 04:53:23 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2023-05-09 04:53:23 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2023-05-09 04:40:40 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2023-05-09 04:53:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2023-05-09 04:53:22 -0400"
     },
     "done": true
   },
@@ -4246,27 +4222,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2023-05-09 04:53:23 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2023-05-09 04:40:40 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_banner": {
-    "criteria": {
-      "has_magenta_wool": "2023-05-09 04:53:23 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2023-05-09 04:53:26 -0400"
     },
     "done": true
   },
@@ -4288,45 +4246,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2023-05-09 04:53:21 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2023-05-09 04:40:40 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2023-05-09 04:53:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2023-05-09 04:53:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2023-05-09 04:53:22 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2023-05-09 04:40:40 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed": {
-    "criteria": {
-      "has_magenta_wool": "2023-05-09 04:53:23 -0400"
     },
     "done": true
   },
@@ -4342,21 +4270,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2023-05-09 04:53:22 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2023-05-09 04:40:40 -0400"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2023-05-09 04:53:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2023-05-09 04:53:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2023-05-09 04:53:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2023-05-09 04:53:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2023-05-09 04:53:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2023-05-09 04:53:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2023-05-09 04:53:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2023-05-09 04:53:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2023-05-09 04:53:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2023-05-09 04:53:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2023-05-09 04:53:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2023-05-09 04:53:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2023-05-09 04:53:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2023-05-09 04:53:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2023-05-09 04:53:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2023-05-10 00:42:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2023-05-10 00:42:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2023-05-10 00:18:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2023-05-10 00:42:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-05-10 00:17:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2023-05-10 00:42:13 -0400"
     },
     "done": true
   },

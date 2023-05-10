@@ -363,6 +363,7 @@
       "cooked_beef": "2023-04-18 03:55:30 -0400",
       "baked_potato": "2023-04-09 22:26:03 -0400",
       "porkchop": "2023-04-26 02:42:47 -0400",
+      "tropical_fish": "2023-05-10 01:40:52 -0400",
       "apple": "2023-04-26 02:23:52 -0400",
       "potato": "2023-04-26 03:34:42 -0400",
       "pumpkin_pie": "2023-05-08 01:31:50 -0400",
@@ -4082,15 +4083,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2023-05-09 00:04:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/play_jukebox_in_meadows": {
     "criteria": {
       "play_jukebox_in_meadows": "2023-05-09 00:06:35 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_candle": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "has_gray_dye": "2023-05-09 00:04:28 -0400"
+      "has_coal_ore": "2023-05-09 23:15:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2023-05-09 23:15:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2023-05-10 00:56:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2023-05-10 00:56:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-05-10 01:56:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2023-05-10 00:56:40 -0400"
     },
     "done": true
   },
