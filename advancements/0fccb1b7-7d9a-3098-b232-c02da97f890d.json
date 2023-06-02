@@ -57,7 +57,8 @@
       "apple": "2023-04-10 05:53:16 -0400",
       "bread": "2023-04-10 00:23:09 -0400",
       "rotten_flesh": "2023-05-12 00:40:08 -0400",
-      "cooked_chicken": "2023-05-09 00:36:06 -0400"
+      "cooked_chicken": "2023-05-09 00:36:06 -0400",
+      "enchanted_golden_apple": "2023-05-30 00:02:13 -0400"
     },
     "done": false
   },
@@ -3283,6 +3284,30 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-05-11 03:22:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2023-05-29 23:58:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2023-05-30 00:13:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-05-30 00:08:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-05-30 00:02:00 -0400"
     },
     "done": true
   },
