@@ -40,6 +40,7 @@
       "minecraft:forest": "2023-04-10 00:18:49 -0400",
       "minecraft:lush_caves": "2023-04-10 00:34:19 -0400",
       "minecraft:deep_cold_ocean": "2023-05-08 03:22:06 -0400",
+      "minecraft:ice_spikes": "2023-06-07 02:23:54 -0400",
       "minecraft:frozen_ocean": "2023-05-08 03:13:30 -0400",
       "minecraft:desert": "2023-05-10 00:11:34 -0400",
       "minecraft:windswept_forest": "2023-05-07 22:04:19 -0400",
@@ -1921,14 +1922,18 @@
       "minecraft:pillager": "2023-05-08 02:08:31 -0400",
       "minecraft:blaze": "2023-05-29 00:53:01 -0400",
       "minecraft:skeleton": "2023-04-11 05:28:26 -0400",
+      "minecraft:hoglin": "2023-06-07 01:24:35 -0400",
       "minecraft:vindicator": "2023-05-08 02:13:00 -0400",
+      "minecraft:magma_cube": "2023-06-07 01:34:02 -0400",
       "minecraft:spider": "2023-04-21 03:29:31 -0400",
+      "minecraft:piglin_brute": "2023-06-07 01:25:18 -0400",
       "minecraft:creeper": "2023-05-08 23:23:59 -0400",
       "minecraft:phantom": "2023-05-11 03:01:00 -0400",
       "minecraft:zombified_piglin": "2023-05-08 00:19:17 -0400",
       "minecraft:witch": "2023-05-08 02:11:37 -0400",
       "minecraft:wither_skeleton": "2023-05-29 00:52:13 -0400",
       "minecraft:shulker": "2023-05-06 01:20:43 -0400",
+      "minecraft:piglin": "2023-06-07 01:23:40 -0400",
       "minecraft:enderman": "2023-05-06 00:25:35 -0400",
       "minecraft:vex": "2023-05-08 23:27:35 -0400",
       "minecraft:zombie": "2023-04-11 01:39:27 -0400",
@@ -3674,6 +3679,36 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2023-05-30 00:10:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-06-07 01:21:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2023-06-07 01:23:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2023-06-07 01:25:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2023-06-07 01:27:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-06-07 01:40:55 -0400"
     },
     "done": true
   },

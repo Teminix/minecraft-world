@@ -1490,6 +1490,7 @@
       "minecraft:vindicator": "2023-05-08 02:08:01 -0400",
       "minecraft:magma_cube": "2023-04-11 02:19:33 -0400",
       "minecraft:spider": "2023-04-09 22:28:03 -0400",
+      "minecraft:piglin_brute": "2023-06-07 01:24:25 -0400",
       "minecraft:creeper": "2023-04-09 22:28:16 -0400",
       "minecraft:wither": "2023-05-29 02:04:17 -0400",
       "minecraft:evoker": "2023-05-08 02:18:13 -0400",
@@ -4079,6 +4080,18 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2023-06-03 00:59:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-06-07 01:21:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-06-07 02:31:44 -0400"
     },
     "done": true
   },
